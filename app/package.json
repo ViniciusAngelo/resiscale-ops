@@ -1,0 +1,12 @@
+{
+  "name": "resiscale-api",
+  "version": "1.0.0",
+  "description": "API base para o projeto ResiScale-Ops",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
