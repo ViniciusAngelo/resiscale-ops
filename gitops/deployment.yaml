@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: api
-        image: ghcr.io/viniciusangelo/resiscale-ops:bf9c966ba9a2e33ff38cab57bf05b8346f1ce572
+        image: ghcr.io/viniciusangelo/resiscale-ops:11e1e6f04eef208e8027b44029ffebbd2e7a9a58
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
