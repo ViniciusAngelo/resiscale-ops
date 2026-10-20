@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/SEU_USUARIO/resiscale-ops.git'
+    repoURL: 'https://github.com/ViniciusAngelo/resiscale-ops.git'
     targetRevision: HEAD
     path: gitops
   destination:
